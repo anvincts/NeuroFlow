@@ -1,0 +1,22 @@
+{
+  "name": "neuroflow-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for NeuroFlow workplace wellness tracker.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.7.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
